@@ -103,7 +103,7 @@
 						},
 						"method": "GET",
 						"header": [],
-						"url": "{{url}}/list/gfhbgfdfdvnfjv/task"
+						"url": "{{url}}/list/gfhbgfdfhdvnfjv/task"
 					},
 					"response": []
 				},
